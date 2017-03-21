@@ -1,0 +1,216 @@
+
+
+body {
+
+    background-image: url("dota2.jpg");
+    background-position: center;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    color: gold;
+
+
+
+}
+
+#main-header {
+
+    background-color : transparent;
+    text-align: center;
+    padding: 10px;
+    height: 60px;
+    border: 2px solid gold;
+
+
+
+
+}
+
+#main-nav {
+
+    background-color : transparent;
+    text-align: center;
+    height: 30px;
+    border: 2px solid gold;
+
+
+}
+
+
+
+#first-section{
+    background-color : transparent;
+    text-align: center;
+    width: 38%;
+    border: 2px solid gold;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
+
+#first-header {
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+
+}
+
+#first-nav {
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding-top: 291px;
+    padding-bottom: 291px;
+    margin: 2px;
+
+
+}
+#first-footer{
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+}
+
+
+
+
+
+#second-section{
+    background-color : transparent;
+    padding: 5px;
+    text-align: center;
+    width: 61%;
+    border: 2px solid gold;
+    float: right;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+
+#second-header {
+
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+#first-article{
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+#second-header2 {
+
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+.section-para1 {
+
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+}
+
+#second-footer{
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+}
+
+#second-article {
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+#third-header{
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+#article-para{
+    background-color : transparent;
+    text-align: center;
+    width: 69%;
+    border: 2px solid gold;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 78px;
+    padding-bottom: 78px;
+
+}
+
+#article-side {
+    background-color : transparent;
+    text-align: center;
+    width: 30%;
+    border: 2px solid gold;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 16px;
+    float: right;
+    padding-top: 78px;
+    padding-bottom: 78px;
+
+}
+
+#third-footer{
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+    clear: both;
+}
+
+#last-footer {
+
+    background-color : transparent;
+    text-align: center;
+    border: 2px solid gold;
+    padding: 10px;
+    margin: 2px;
+
+}
+
+#footer-last {
+
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+    height: 40px;
+    border: 2px solid gold;
+    clear: both;
+
+}
